@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1571109920 source:z:\game programming\tugas sebelum uts\03-acakkata\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	<vector>
+

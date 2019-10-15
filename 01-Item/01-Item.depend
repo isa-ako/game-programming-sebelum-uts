@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1571110865 source:z:\game programming\tugas sebelum uts\01-item\main.cpp
+	<iostream>
+	<string>
+	<vector>
+
